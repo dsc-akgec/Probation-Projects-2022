@@ -1,10 +1,5 @@
 # Probation-Projects-2022
 
-# project link https://avnishkt.github.io/blogs/
-
-
-
-
 Welcome to GDSC-AKGEC Probation Projects for 2022!
 <br><br>
 ## How to add your project to this repository?
