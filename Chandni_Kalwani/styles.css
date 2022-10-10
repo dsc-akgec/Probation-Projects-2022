@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    display: inline;
+    background-color: rgb(223, 222, 223);
+    font-family: 'Merriweather',serif;
+ }
+ .contact 
+ {
+    padding: 4px;
+    background-color: rgb(185,2,52);
+    height: 30px;
+    color: #fff;
+ }
+ 
+ img {
+     height: 30px;
+     width: 30px;
+ 
+ }
+ .connect {
+     margin: 0%;
+     display: inline;
+     position: absolute;
+     right: 1%;
+ }
+ h4 {
+    display: inline-block; 
+    margin: 5px;
+ }
+ .blogname {
+     text-align: center;
+     background-color: black;
+     height: 40px;
+     color: white;
+     
+ }
+ #root {
+     width: 100%;
+ }
+ h3 {
+     font-family: 'Sacramento',cursive;
+     display: inline-block;
+     margin: 5px;
+ }
+ .search {
+     display: inline-block;
+    margin-left: 500px;
+ }
+ .recipies-list {
+     display: grid;
+     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+     min-height: calc(100vh - 190px - var(--footer-size));
+     max-width: 1200px;
+     margin: 30px auto 50px;
+     padding: 0 30px;
+     grid-gap: 30px;
+     gap: 30px;
+ }
+ .food-items {
+     position: relative;
+     overflow: hidden;
+     background-color: #fff;
+     padding: 2%;
+     border-radius: 5%;
+ }
+ .foodphoto {
+     height: 300px;
+     width: 400px;
+     margin-left: 375px;
+     border-radius: 2%;
+     display: inline-block;
+ }
+ .block {
+     display: flex;
+     flex-direction: column;
+     height: 100%;
+     width: 90%;
+     margin: 0 auto;
+ }
+ 
+ .btn {
+     background-color: rgb(185, 2, 52);
+     color: white
+ }
+ .last {
+     background-color: rgb(185,2,52);
+     color: #fff;
+     margin: 0;
+ }
+ 
